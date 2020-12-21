@@ -1,0 +1,3 @@
+https://github.com/libvips/libvips/releases/download/v8.10.5/vips-8.10.5.tar.gz
+http://deb.debian.org/debian/pool/main/v/vips/vips_8.10.2-1.debian.tar.xz
+
