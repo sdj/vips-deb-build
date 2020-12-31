@@ -1,8 +1,10 @@
 #/bin/bash
 
-pushd build
+set -euo pipefail
 
-pushd vips-8.10.5
+pushd "build"
+
+pushd "vips-8.10.5"
 
 debuild -i -us -uc -b -j$(nproc)
 
